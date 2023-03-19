@@ -1,1 +1,2 @@
 "# CompraQ-Backend" 
+# shop-api
